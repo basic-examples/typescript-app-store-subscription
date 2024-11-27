@@ -45,6 +45,11 @@
 			path = test241121UITests;
 			sourceTree = "<group>";
 		};
+		CEE2A61A2CF0373B0060230C /* Misc */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Misc;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		CEE2A5E32CEF3A9C0060230C = {
 			isa = PBXGroup;
 			children = (
+				CEE2A61A2CF0373B0060230C /* Misc */,
 				CEE2A5EE2CEF3A9C0060230C /* test241121 */,
 				CEE2A5FF2CEF3A9E0060230C /* test241121Tests */,
 				CEE2A6092CEF3A9E0060230C /* test241121UITests */,
@@ -155,6 +161,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				CEE2A6092CEF3A9E0060230C /* test241121UITests */,
+				CEE2A61A2CF0373B0060230C /* Misc */,
 			);
 			name = test241121UITests;
 			packageProductDependencies = (
