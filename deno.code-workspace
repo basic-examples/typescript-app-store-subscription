@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "server/packages/deno",
+    },
+  ],
+  "settings": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+    "[typescript][typescriptreact]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "deno.enable": true,
+  },
+  "extensions": {
+    "recommendations": [
+      "EditorConfig.EditorConfig",
+      "esbenp.prettier-vscode",
+      "timonwong.shellcheck",
+      "denoland.vscode-deno",
+    ],
+  },
+}

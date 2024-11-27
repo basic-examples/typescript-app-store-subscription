@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "name": "common",
+      "path": "server/packages/common",
+    },
+    {
+      "name": "node",
+      "path": "server/packages/node",
+    },
+  ],
+  "settings": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+    "[typescript][typescriptreact]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  },
+  "extensions": {
+    "recommendations": [
+      "EditorConfig.EditorConfig",
+      "esbenp.prettier-vscode",
+      "timonwong.shellcheck",
+    ],
+  },
+}
