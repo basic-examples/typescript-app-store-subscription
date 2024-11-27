@@ -6,5 +6,4 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "deno.enable": true,
 }

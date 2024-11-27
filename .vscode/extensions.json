@@ -2,7 +2,6 @@
   "recommendations": [
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
-    "denoland.vscode-deno",
     "timonwong.shellcheck",
   ],
 }
