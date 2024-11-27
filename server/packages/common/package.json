@@ -1,0 +1,7 @@
+{
+  "name": "@this-project/common",
+  "version": "0.1.0",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}

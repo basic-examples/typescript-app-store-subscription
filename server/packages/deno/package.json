@@ -1,0 +1,8 @@
+{
+  "name": "@this-project/deno",
+  "version": "0.1.0",
+  "dependencies": {
+    "@this-project/common": "file:../common",
+    "typescript": "^5.7.2"
+  }
+}
